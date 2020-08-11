@@ -1,5 +1,5 @@
 ### Página de Bienvenida - Versión 0.1
-![GitHub Logo](/images/AteneaLogo.png)
+![Atenea Logo](/AteneaLogo.png)
 Format: ![Alt Text](url)
 
 ### Los siguientes texto son internos de GitHub y serán eliminados una vez que tengamos contenido.
