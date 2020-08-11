@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Página de Bienvenida - Versión 0.1
+
+### Los siguientes texto son internos de GitHub y serán eliminados una vez que tengamos contenido.
 
 You can use the [editor on GitHub](https://github.com/ateneacons/ateneacons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
